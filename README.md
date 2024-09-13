@@ -1,5 +1,6 @@
 # MyLoc-Amenities-Finder
 The MyLoc-Amenities Finder aims to help individuals who are new to a particular area become more familiar and comfortable with their surroundings. It accomplishes this by taking the user's location as an input and then identifying nearby facilities, which are classified into categories like food, shopping, medical, and grocery. The K-means clustering algorithm is used to create clusters of facilities within each category. Finally, these clusters are displayed on a map, providing a visual representation of the available amenities in the area.
+Here's the video demonstration of the project : https://youtu.be/eGw_qE2eFQ8
 
 ## Problem Statement
 A person who moves to a new location may find it difficult to figure out the locality as well as the basic amenities available nearby. The aim of this project is to assist user to quickly locate nearby amenities.
